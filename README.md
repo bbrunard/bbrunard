@@ -8,10 +8,6 @@
     alt="Bruna Ribeiro — Development & Product Designer">
 </a>
 
-<img
-  src="assets/profile.png"
-  width="500"
-  alt="Bruna Ribeiro — Product Design & Development">
 
 
 <table>
